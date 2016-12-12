@@ -58,3 +58,13 @@
     Equity:troll4u:register:troll4u:Income      0.01 XP
     Equity:troll4u:register:troll4u:Liabilities  0.01 XP
 
+2016/12/11 vote register troll4u
+    Assets:troll4u:register:ctm-alianz          1 XP
+    Expenses:troll4u:register:ctm-alianz       1 XP
+    Income:troll4u:register:ctm-alianz         1 XP
+    Liabilities:troll4u:register:ctm-alianz    1 XP
+    Equity:ctm-alianz:register:troll4u:Assets      -1 XP
+    Equity:ctm-alianz:register:troll4u:Expenses     -1 XP
+    Equity:ctm-alianz:register:troll4u:Income      -1 XP
+    Equity:ctm-alianz:register:troll4u:Liabilities  -1 XP
+
