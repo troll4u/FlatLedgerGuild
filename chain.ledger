@@ -1,0 +1,14 @@
+2016/12/11 * initialize Guild
+    Assets:isysd:init                 1 XGG
+    Expenses:isysd:init                1 XGG
+    Income:isysd:init                  -1 XGG
+    Liabilities:isysd:init            -1 XGG
+    Assets:isysd:init:isysd          1 XP
+    Expenses:isysd:init:isysd          1 XP
+    Income:isysd:init:isysd          1 XP
+    Liabilities:isysd:init:isysd          1 XP
+    Equity:isysd:init:isysd:Assets      -1 XP
+    Equity:isysd:init:isysd:Expenses     -1 XP
+    Equity:isysd:init:isysd:Income      -1 XP
+    Equity:isysd:init:isysd:Liabilities  -1 XP
+
