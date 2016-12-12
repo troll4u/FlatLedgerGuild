@@ -32,9 +32,18 @@
     Equity:isysd:register:ctm-alianz:Income      -1 XP
     Equity:isysd:register:ctm-alianz:Liabilities  -1 XP
 
-2016/12/11 issue1
+2016/12/11 * issue1
     Assets:ctm-alianz:issue1                 1 XGG
     Expenses:ctm-alianz:issue1                1 XGG
     Income:ctm-alianz:issue1                  -1 XGG
     Liabilities:ctm-alianz:issue1            -1 XGG
 
+2016/12/11 * vote issue1 ctm-alianz
+    Assets:ctm-alianz:issue1:isysd          1 XP
+    Expenses:ctm-alianz:issue1:isysd       1 XP
+    Income:ctm-alianz:issue1:isysd         1 XP
+    Liabilities:ctm-alianz:issue1:isysd    1 XP
+    Equity:isysd:issue1:ctm-alianz:Assets      -1 XP
+    Equity:isysd:issue1:ctm-alianz:Expenses     -1 XP
+    Equity:isysd:issue1:ctm-alianz:Income      -1 XP
+    Equity:isysd:issue1:ctm-alianz:Liabilities  -1 XP
