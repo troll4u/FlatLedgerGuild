@@ -47,3 +47,14 @@
     Equity:isysd:issue1:ctm-alianz:Expenses     -1 XP
     Equity:isysd:issue1:ctm-alianz:Income      -1 XP
     Equity:isysd:issue1:ctm-alianz:Liabilities  -1 XP
+
+2016/12/11 register troll4u
+    Assets:troll4u:register:troll4u         -0.01 XP
+    Expenses:troll4u:register:troll4u       -0.01 XP
+    Income:troll4u:register:troll4u         -0.01 XP
+    Liabilities:troll4u:register:troll4u    -0.01 XP
+    Equity:troll4u:register:troll4u:Assets      0.01 XP
+    Equity:troll4u:register:troll4u:Expenses     0.01 XP
+    Equity:troll4u:register:troll4u:Income      0.01 XP
+    Equity:troll4u:register:troll4u:Liabilities  0.01 XP
+
